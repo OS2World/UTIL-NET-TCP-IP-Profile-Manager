@@ -1,0 +1,11 @@
+ICON 1  ipprof.ico
+ICON 2  profile1.ico
+ICON 3  profile2.ico
+BITMAP 10  edge_t.bmp
+BITMAP 11  edge_l.bmp
+BITMAP 12  edge_b.bmp
+BITMAP 13  edge_r.bmp
+BITMAP 14  edge_tl.bmp
+BITMAP 15  edge_tr.bmp
+BITMAP 16  edge_br.bmp
+BITMAP 17  edge_bl.bmp

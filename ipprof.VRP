@@ -1,0 +1,20 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: ipprof.VRX
+VXOFile: VROBJEX
+MacroPath: VRM:E:\DEVELOPMENT\VXREXX\Projects\ipprof
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,759,2168,5767,8986
+VRXWindow: __VRESectionListWindow,1,1927,11900,4059,3915
+VRXWindow: __VREToolsWindow,1,1867,9588,4965,1667
+VRXWindow: __VREWindListWindow,1,5998,11900,3397,3915
+UserFile: 1
+UserWindow: WN_MAIN,1
+UserWindow: SW_OPTIONS,1
+UserWindow: SW_VIEW,1
+UserWindow: SW_VIEW1,1
+UserWindow: SW_VIEW2,1
+UserWindow: SW_VIEW3,1
+UserWindow: SW_ADD,1
+UserWindow: SW_ABOUT,1
